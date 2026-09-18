@@ -26,7 +26,7 @@ The calibrated 10-year analysis confirmed a distinct thermal lifecycle tied to p
 
 ## 📂 How to Open This Project
 
-Due to GitHub's file size limits, the 2GB ArcGIS Pro project folder has been compressed and split into 100MB multi-part 7-Zip files.
+Due to GitHub's file size limits, the 2GB ArcGIS Pro project folder has been compressed and split into 30 separated 25MB multi-part 7-Zip files.
 
 **To open the project on your local machine:**
 1. Download **all** of the `.7z.00X` files (e.g., `.7z.001`, `.7z.002`, etc.) and place them into the same single folder on your computer.
