@@ -38,3 +38,16 @@ Due to GitHub's file size limits, the 2GB ArcGIS Pro project folder has been com
 ## 🛠️ Requirements
 * ArcGIS Pro (Advanced License recommended for Spatial Analyst tools)
 * 7-Zip (for extracting the project files)
+
+
+
+## 🤝 Contact & Developer Info
+
+**Mustaq Hasnat Tamim** *Always open to feedback, bug reports, and academic collaborations.*
+
+* ✉️ **Email:** [m.h.tamim.esg@std.iu.ac.bd](mailto:m.h.tamim.esg@std.iu.ac.bd)
+* 💼 **LinkedIn:** [linkedin.com/in/mustaqhasnattamim](https://linkedin.com/in/mustaqhasnattamim)
+* 🐙 **GitHub:** [github.com/mustaqhasnattamim](https://github.com/mustaqhasnattamim)
+* 📸 **Instagram:** [@mustaq_hasnat_tamim](https://instagram.com/mustaq_hasnat_tamim)
+* 🌐 **Facebook:** [Mustaq Hasnat Tamim](https://facebook.com/mustaqhasnattamim37)
+
