@@ -33,7 +33,7 @@ Due to GitHub's file size limits, the 2GB ArcGIS Pro project folder has been com
 2. Ensure you have [7-Zip](https://www.7-zip.org/) installed.
 3. Right-click **ONLY** the first file in the sequence (`filename.7z.001`).
 4. Select `7-Zip` > `Extract Here` (or `Extract to "folder\"`). 7-Zip will automatically detect the other parts and combine them into the full ArcGIS Pro project folder.
-5. Open the `.aprx` file in **ArcGIS Pro**.
+5. Open the `.ppkx` file in **ArcGIS Pro**.
 
 ## 🛠️ Requirements
 * ArcGIS Pro (Advanced License recommended for Spatial Analyst tools)
